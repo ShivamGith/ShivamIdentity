@@ -1,0 +1,12 @@
+E:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\bin\Debug\net8.0\Shivam.Identity.Persistance.deps.json
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\bin\Debug\net8.0\Shivam.Identity.Persistance.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\bin\Debug\net8.0\Shivam.Identity.Persistance.pdb
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\Shivam.Identity.Persistance.csproj.AssemblyReference.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\Shivam.Identity.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\Shivam.Identity.Persistance.AssemblyInfoInputs.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\Shivam.Identity.Persistance.AssemblyInfo.cs
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\Shivam.Identity.Persistance.csproj.CoreCompileInputs.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\Shivam.Identity.Persistance.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\refint\Shivam.Identity.Persistance.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\Shivam.Identity.Persistance.pdb
+E:\MyProject\ShivamIdentity\Shivam.Identity.Persistance\obj\Debug\net8.0\ref\Shivam.Identity.Persistance.dll

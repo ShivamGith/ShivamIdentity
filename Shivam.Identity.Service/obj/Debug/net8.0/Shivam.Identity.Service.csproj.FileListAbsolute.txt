@@ -1,0 +1,17 @@
+E:\MyProject\ShivamIdentity\Shivam.Identity.Service\bin\Debug\net8.0\Shivam.Identity.Service.deps.json
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\bin\Debug\net8.0\Shivam.Identity.Service.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\bin\Debug\net8.0\Shivam.Identity.Service.pdb
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\bin\Debug\net8.0\Shivam.Identity.Abstractions.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\bin\Debug\net8.0\Shivam.Identity.Persistance.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\bin\Debug\net8.0\Shivam.Identity.Abstractions.pdb
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\bin\Debug\net8.0\Shivam.Identity.Persistance.pdb
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.Identity.Service.csproj.AssemblyReference.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.Identity.Service.GeneratedMSBuildEditorConfig.editorconfig
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.Identity.Service.AssemblyInfoInputs.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.Identity.Service.AssemblyInfo.cs
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.Identity.Service.csproj.CoreCompileInputs.cache
+E:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.I.F00AC841.Up2Date
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.Identity.Service.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\refint\Shivam.Identity.Service.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\Shivam.Identity.Service.pdb
+E:\MyProject\ShivamIdentity\Shivam.Identity.Service\obj\Debug\net8.0\ref\Shivam.Identity.Service.dll

@@ -1,0 +1,6 @@
+@Shivam.Identity.Controller_HostAddress = http://localhost:5100
+
+GET {{Shivam.Identity.Controller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

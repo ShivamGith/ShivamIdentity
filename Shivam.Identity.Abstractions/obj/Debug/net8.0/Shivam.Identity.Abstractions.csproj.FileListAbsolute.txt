@@ -1,0 +1,12 @@
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\bin\Debug\net8.0\Shivam.Identity.Abstractions.deps.json
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\bin\Debug\net8.0\Shivam.Identity.Abstractions.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\bin\Debug\net8.0\Shivam.Identity.Abstractions.pdb
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\Shivam.Identity.Abstractions.csproj.AssemblyReference.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\Shivam.Identity.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\Shivam.Identity.Abstractions.AssemblyInfoInputs.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\Shivam.Identity.Abstractions.AssemblyInfo.cs
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\Shivam.Identity.Abstractions.csproj.CoreCompileInputs.cache
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\Shivam.Identity.Abstractions.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\refint\Shivam.Identity.Abstractions.dll
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\Shivam.Identity.Abstractions.pdb
+e:\MyProject\ShivamIdentity\Shivam.Identity.Abstractions\obj\Debug\net8.0\ref\Shivam.Identity.Abstractions.dll
